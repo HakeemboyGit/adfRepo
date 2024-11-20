@@ -1,9 +1,0 @@
-{
-	"name": "abd-datafact1",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "1b85d9b4-e0d8-449d-8f55-7f39b15d9b79",
-		"tenantId": "128d0112-9e32-42d3-9c16-b0d5687d3a5f"
-	}
-}
